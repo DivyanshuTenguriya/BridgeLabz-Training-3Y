@@ -23,4 +23,5 @@ public class SubStringOfAString {
         }
         System.out.println(new1);
     }
+
 }
