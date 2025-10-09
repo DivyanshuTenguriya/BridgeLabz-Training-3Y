@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81b2033d-8d9a-4800-b21c-93e6f4eb3097" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Java Arrays.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Arrays.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level 2/FindTheBMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Level 2/FindTheBMI.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="329J2sI5942Oy44LcJDmy3kQfjf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BMIIn2DArray.executor": "Run",
+    "Application.BonusForCompany.executor": "Run",
+    "Application.DigitsOfNumber.executor": "Run",
+    "Application.FactorOfANumber.executor": "Run",
+    "Application.FindTheBMI.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
+    "Application.FrequencyOfDigitsInANumber.executor": "Run",
+    "Application.MaxinumDigitsOfANumber.executor": "Run",
+    "Application.ReverseTheNumberWithArray.executor": "Run",
+    "Application.StoreEvenOddInArrays.executor": "Run",
+    "Application.StudentReportCardIn2DArray.executor": "Run",
+    "Application.StudentsReportCard.executor": "Run",
+    "Application.ThreeFrinds.executor": "Run",
+    "Application.Transfering2DArrayTo1DArray.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Java-Fundamental",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/divya/OneDrive/Desktop/Coding/java/BridgeLabz-Training-3Y/Assignments/Java String"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81b2033d-8d9a-4800-b21c-93e6f4eb3097" name="Changes" comment="" />
+      <created>1756826651134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756826651134</updated>
+    </task>
+    <servers />
+  </component>
+</project>
